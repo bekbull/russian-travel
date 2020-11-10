@@ -19,4 +19,4 @@ This layout presents and describes some interesting places worthy of your vacati
 * CSS3 (.css) 
 
 ## Ссылка / Link
-https://r1chter1.github.io/for-portfolio-1/
+https://r1chter1.github.io/russian-travel/
